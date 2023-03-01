@@ -1,0 +1,24 @@
+{
+  "name": "Colors Website",
+  "short_name": "Colors",
+  "display": "standalone",
+  "background_color": "#5900b3",
+  "theme_color": "black",
+  "scope": ".",
+  "id": "index.html",
+  "description": "Colors Website",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
